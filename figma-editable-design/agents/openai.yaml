@@ -1,0 +1,4 @@
+interface:
+  display_name: "用 Codex 写 Figma 设计稿"
+  short_description: "连接现有 Figma 写入工具，将需求变成可编辑设计稿并按反馈迭代"
+  default_prompt: "使用 $figma-editable-design，在我的 Figma 文件中创建或修改可编辑设计稿，先核对连接和目标，再按我的需求完成。"
